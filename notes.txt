@@ -1,0 +1,6 @@
+KELAS FUNDAMENTAL SQL - DQLAB 
+
+Fundamental SELECT statment
+Fundamental FUNCTION and GROUP BY
+Fundamental INNER JOIN and UNION
+Fundamental GROUP BY and HAVING
